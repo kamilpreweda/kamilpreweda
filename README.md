@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently developing fullstack application in .Net & Angular<br>👯 If you have any suggestions please write me a message<br>🤝 I’m looking for a job or internship, preferably as a backend developer, but I will consider all offers.<br>🌱 I’m currently learning about Azure deployment & software architecture<br>💬 Ask me about my project<br>⚡ Fun fact - I play guitar for 10+ years and I still suck
+🔭 I am currently developing fullstack application in .Net & Angular<br>👯 If you have any suggestions please write me a message<br>🤝 I’m looking for a job or internship, preferably as a backend developer, but I will consider all offers.<br>🌱 I’m currently learning about Azure deployment & software architecture<br>💬 Ask me about my project: https://quantumworldclient.azurewebsites.net<br>⚡ Fun fact - I play guitar for 10+ years and I still suck
 
 
 ## 🌐 Socials:
